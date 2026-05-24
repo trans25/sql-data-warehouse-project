@@ -61,3 +61,8 @@ Potential additions to this repository:
 ## License
 
 This project is licensed under the MIT License.
+
+
+## About Me
+
+Hi there I am **Elias Mashia** i am a software developer!
